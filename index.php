@@ -7,6 +7,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register - New Club Penguin</title>
+    <link rel="icon" href="https://cdn2.steamgriddb.com/icon/e5860ae00103b3869a25d940345bf0fd.png" type="image/png">
     <link rel="stylesheet" href="lib/css/style.css">
 </head>
 <body>
